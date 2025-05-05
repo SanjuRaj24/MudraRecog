@@ -2,7 +2,7 @@ How to Use
 
 Collect Dataset
 
-Run dataset.py inside the Code/ folder to collect keypoint data using your webcam. Update the mudra label in the script each time.
+Run dataset.py to collect keypoint data using your webcam. Update the mudra label in the script each time.
 
 
 Train the Model
